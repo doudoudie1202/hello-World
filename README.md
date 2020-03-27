@@ -1,2 +1,2 @@
 # hello-World
-第一个库
+print('hello world')
